@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/CarsDetails/static/js/main.fc7badcc.js",
+    "index.html": "/CarsDetails/index.html",
+    "main.fc7badcc.js.map": "/CarsDetails/static/js/main.fc7badcc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fc7badcc.js"
+  ]
+}
