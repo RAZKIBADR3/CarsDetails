@@ -11,7 +11,7 @@ export default function header(){
     return(
         <header>
             <div className="headLeft">
-                <Link to='/'>SportCars</Link>
+                <Link to='/CarsDetails/'>SportCars</Link>
             </div>
             <div className="headMidlle">
                 {nav.map(e=><span key={e.id}>{e.text}</span>)}

@@ -8,8 +8,8 @@ export default function App(){
   return(
     <Router>
       <Routes>
-        <Route path='/' element={<Cars Data={Data}/>}/>
-        <Route path='Car/:ref' element={<Car Data={Data}/>}/>
+        <Route path='/CarsDetails/' element={<Cars Data={Data}/>}/>
+        <Route path='/CarsDetails/Car/:ref' element={<Car Data={Data}/>}/>
       </Routes>
     </Router>
   )
